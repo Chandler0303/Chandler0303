@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tree
+# 👋 Hi there, I'm Chandler
 
 Full-stack developer passionate about building scalable systems and automation tools.
 
