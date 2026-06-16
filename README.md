@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tree
 
-<!--
-**Chandler0303/Chandler0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer passionate about building scalable systems and automation tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Backend
+- **Java** & **Spring Boot** - Microservices development
+- **Node.js** & **Express.js** - REST API development
+- **Python** - Automation, scripting, and AI integration
+
+### Frontend
+- **React** - Modern UI development
+- **Vue.js** - Progressive web applications
+- **JavaScript/SCSS** - Styling and responsive design
+- **WeChat Mini Programs** - WXML/WXSS development
+
+### Databases & Data
+- **Relational Databases** - SQL, schema design
+- **NoSQL** - Document and cache solutions
+- **Kafka** - Event streaming and messaging
+
+### DevOps & Infrastructure
+- **Kubernetes** - Container orchestration
+- **Docker** - Containerization
+- **Jenkins** - CI/CD pipelines
+- **GitHub Actions** - Workflow automation
+- **Git** - Version control and collaboration
+
+### Tools & APIs
+- **RESTful API Design** - API architecture and best practices
+- **Tweepy** - Twitter/X API integration
+- **Google Gemini API** - AI-powered content generation
+- **WeChat API** - Mini program integration
+- **Maven** & **Gradle** - Build automation
+
+---
+
+## 🛠️ Quick Reference
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | Java, JavaScript, Python, SQL |
+| **Frameworks** | Spring Boot, Express.js, React, Vue.js |
+| **Cloud & DevOps** | Kubernetes, Docker, Jenkins, GitHub Actions |
+| **Databases** | MySQL, MongoDB, Redis, Kafka |
+| **APIs & Integration** | REST, Tweepy, Gemini API, WeChat API |
+
+---
+
+**Always learning, always building.** 🚀
